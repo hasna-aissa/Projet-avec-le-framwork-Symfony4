@@ -5,6 +5,10 @@ Dans le but de faciliter la gestion des stagiaires, notre projet propose des sol
 ➢ Encadrant : la facilité d’affectation des taches aux stagiaires, le suivi d’état d’avancement et l’évaluation des stagiaires. 
 ➢ Administrateur : la désactivation et réactivation des comptes, l’affectation des encadreurs et sujets aux stagiaires. Ainsi, l’impression des attestations de stage
 
+Remarque :
+Vous trouverez dans ce fichier zip que les trois dossiers src, templates, et config j'ai pas mis tous le projets car sa taille
+est plus de 25 MB.
+
 // les acteurs
 
 Dans notre application on a quatre acteurs :
@@ -52,3 +56,4 @@ réactivation des comptes.
 ➢ Imprimer les attestations.
 ➢ Modifier les paramètres de son compte.
 ➢ Imprimer les documents
+
